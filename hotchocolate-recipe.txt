@@ -1,0 +1,8 @@
+ingredient:
+cocoa powder 40g
+milk 250ml
+sugar 3g
+
+step:
+microwave milk for 2mins
+add cocoa powder and suger
